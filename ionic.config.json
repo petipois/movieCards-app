@@ -1,0 +1,7 @@
+{
+  "name": "movieCards-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
